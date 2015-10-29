@@ -1,0 +1,45 @@
+{
+  "ProjectName": "ggg",
+  "ProjectGuid": "e4e96a06-30a5-4438-8a3c-40cb8e59f696",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ggg",
+  "DisplayName": "ggg",
+  "Author": "",
+  "Description": "ggg",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{fa03542b-d430-4971-a0d0-130002083a94}",
+  "WP8ProductID": "{7b1d691b-3fca-4ac0-bbc5-46181b59a307}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ggg",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
